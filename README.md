@@ -1,7 +1,7 @@
 My-New-Framework--
 ==================
 
-My New Framework ™ is going to disrupt the frontend development industry. No take that back, My New Framework ™ is **super** disruptive. (Blog post coming soon)
+My New Framework ™ is going to disrupt the frontend development industry. No take that back, My New Framework ™ is **super** disruptive. [Website](http://www.joe-kent.com/my-new-framework/) (Trust me you want to read about it)
 
 License
 ==================
